@@ -9,3 +9,4 @@ Events
 - [x] ping
 - [x] star
 - [x] commit
+- [x] test
